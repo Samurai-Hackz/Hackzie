@@ -519,7 +519,7 @@ body.noscroll {
 }
 
 .footer-content{
-    width: 90%;
+    width: 80%;
     display: flex;
     align-items: flex-start;
     flex-wrap: wrap;
