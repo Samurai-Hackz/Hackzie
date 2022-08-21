@@ -1,0 +1,120 @@
+@media (max-width: 1300px) {
+    .aboutMe__circle-1{
+        top: -650px;
+        width: 450px;
+        height: 450px;
+    }
+
+    .aboutMe__circle-2{
+        top: -750px;
+        right: 250px;
+        width: 200px;
+        height: 200px;
+    }
+
+    .aboutMe__circle-3{
+        top: -400px;
+        right: 200px;
+        width: 250px;
+        height: 250px;
+        border: 30px solid #00C4F0;
+    }
+}
+
+@media (max-width: 1000px) {
+    .aboutMe__content-text{
+        width: 50%;
+    }
+
+    .aboutMe__circle-1{
+        top: -550px;
+        left: 5%;
+        width: 450px;
+        height: 450px;
+    }
+
+    .aboutMe__circle-2{
+        top: -650px;
+        right: 100px;
+        width: 200px;
+        height: 200px;
+    }
+
+    .aboutMe__circle-3{
+        top: -300px;
+        right: 50px;
+        width: 250px;
+        height: 250px;
+        border: 30px solid #00C4F0;
+    }
+}
+
+@media (max-width: 800px) {
+    .aboutMe__content-text{
+        width: 65%;
+    }
+
+    .aboutMe__circle-1{
+        left: 0%;
+        width: 450px;
+        height: 450px;
+        border: 45px solid white;
+    }
+    
+    .aboutMe__circle-2{
+        top: -650px;
+        right: 60px;
+        border: 20px solid #E29500;
+    }
+
+    .aboutMe__circle-3{
+        top: -300px;
+        right: 0px;
+        width: 250px;
+        height: 250px;
+        border: 25px solid #00C4F0;
+    }
+}
+
+@media (max-width: 650px) {
+    .aboutMe__content-text{
+        width: 80%;
+    }
+
+    .aboutMe__circle-1{
+        display: none;
+    }
+
+    .aboutMe__circle-2{
+        display: none;
+    }
+    
+    .aboutMe__circle-3{
+        display: none;
+    }
+}
+
+@media (max-width: 450px) {
+    .aboutMe__content-text{
+        width: 90%;
+    }
+
+    .aboutMe__text-h1{
+        font-size: 35px;
+    }
+
+    .aboutMe__text-p{
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 350px) {
+    .aboutMe__content-text{
+        width: 100%;
+    }
+
+    .aboutMe__text-h1{
+        font-size: 30px;
+        left: 15%;
+    }
+}

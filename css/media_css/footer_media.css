@@ -1,0 +1,11 @@
+@media (max-width: 575px) {
+    .footer__block-3{
+        margin-top: 35px;
+    }
+}
+
+@media (max-width: 460px) {
+    .footer__block-2{
+        margin-top: 35px;
+    }
+}
